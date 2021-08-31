@@ -161,4 +161,6 @@ function calculaChanceDeErrar() {
   }
 }
 
+console.log("teste")
+
 
